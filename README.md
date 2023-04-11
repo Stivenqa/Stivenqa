@@ -4,7 +4,7 @@ Sou um desenvolvedor de software
 
 
 - 📫 Como me encontrar:  stivenang31@gmail.com
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys;My+Name+Is+Stiven;I+Am+From+Brazil/SP;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+Name+Is+Stiven;I+Am+From+Brazil/SP;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Stivenqa303&show_icons=true&count_private=true&hide_border=true&title_color=066699&icon_color=066699&text_color=066699&bg_color=0d1117" alt="Stiven Angel github stats" />
