@@ -1,9 +1,3 @@
-# Olá, eu sou o Stiven
-
-Sou um desenvolvedor de software 
-
-
-- 📫 Como me encontrar:  stivenang31@gmail.com
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+Name+Is+Stiven;I+Am+From+Brazil/SP;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
